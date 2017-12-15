@@ -14,6 +14,7 @@ namespace Test1
             gfhfgh
 
             La fenetre est ouverte
+                la porte est fermée
 
 
                 sjkdjKLJKLSJL
