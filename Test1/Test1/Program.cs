@@ -13,7 +13,7 @@ namespace Test1
 
             gfhfgh
 
-            La fenetre est ouvertttee
+            La fenetre est ouverte
 
 
                 sjkdjKLJKLSJL
